@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .index-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .header {
+    background-color: #0073e6;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .main-content {
+    margin-top: 30px;
+  }
+  
+  .button {
+    background-color: #0073e6;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #005bb5;
+  }
+  
